@@ -1,1 +1,1 @@
-# Resumos - Certificações e Frameworks
+# Resumos – Certificações e Frameworks
