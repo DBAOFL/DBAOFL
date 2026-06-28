@@ -1,12 +1,13 @@
-Confirmar e garantir que foi alguém qualificado que enviou a informação.
-Assinatura
-
 # Não-repúdio
+A principal função é confirmar e garantir que foi alguém qualificado que enviou a informação, ou seja, confirmar que a assinatura no documento é legítima.
+
 ## Prova de Integridade
-Qualquer dado recebido pode ser comprovado de ser o mesmo de quando enviado.
+Qualquer dado recebido precisa ser comprovado que é o mesmo de quando enviado.
 - Usasse hash na criptografia.
+
 ## Prova de Origem
-Autenticação, garantindo que a assinatura não é falsa. Assinatura via chave privada.
+Autenticação do usuário que enviou, garantindo que a assinatura não é falsa. 
+Um método comum é fazer a assinatura com uma chave privada.
 
 ## Processo de Assinatura Digital
 - Enviasse o arquivo desejado;
