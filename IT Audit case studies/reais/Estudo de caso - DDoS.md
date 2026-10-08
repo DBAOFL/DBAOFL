@@ -5,4 +5,8 @@ Este estudo de caso tem como objetivo analisar, recapitular, explicar e sugerir 
 
 **GRAVIDADE:** Alta.
 
+---
+
 ### Resumo
+
+####===CONTINUA===
